@@ -194,4 +194,4 @@ Aprendi a importância de:
 
 ---
 
-**Projeto desenvolvido como parte do desafio Meu Kit de IA — DIO.**
+** Projeto desenvolvido como parte do desafio Meu Kit de IA — DIO **
