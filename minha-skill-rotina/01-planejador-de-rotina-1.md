@@ -146,61 +146,39 @@ As imagens abaixo documentam as etapas de criação, configuração, planejament
 
 ### 6.1. Criação do atalho no GitHub
 
-O atalho foi documentado em um arquivo Markdown dentro da pasta `atalhos`.
+O atalho foi documentado em um arquivo Markdown dentro da pasta do projeto.
 
-![Atalho criado no GitHub](organizar1.PNG)
+![Atalho criado no GitHub](../organizar1.PNG)
 
 ### 6.2. Configuração das instruções no ChatGPT
 
 Foram inseridas instruções específicas para orientar o agente na organização e no acompanhamento da rotina.
 
-![Configuração do projeto ChatGPT](projetoia5.PNG)
+![Configuração do projeto ChatGPT](../projetoia5.PNG)
 
 ### 6.3. Planejamento semanal no Google Agenda
 
 Os compromissos foram distribuídos no calendário, respeitando os horários e os dias definidos.
 
-![Planejamento semanal](projeto%20ia1.PNG)
+![Planejamento semanal](../projeto%20ia1.PNG)
 
 ### 6.4. Planejamento diário apresentado pelo ChatGPT
 
 O agente apresentou a rotina diária, com horários, atividades e metas correspondentes ao planejamento.
 
-![Resultado do planejamento diário](projetoia7.PNG)
+![Resultado do planejamento diário](../projetoia7.PNG)
 
 ### 6.5. Teste do acompanhamento
 
 Foi realizado um teste para verificar a apresentação das atividades e o acompanhamento do progresso.
 
-![Teste do atalho](TesteSkill.PNG)
-
-## 6. Evidências da execução
-
-### 6.1. Criação do atalho no GitHub
-
-![Atalho criado](organizar1.PNG)
-
-### 6.2. Configuração do projeto ChatGPT
-
-![Configuração do ChatGPT](projetoia5.PNG)
-
-### 6.3. Planejamento semanal no Google Agenda
-
-![Planejamento semanal](%20projeto%20ia1.PNG)
-
-### 6.4. Planejamento diário apresentado pelo ChatGPT
-
-![Planejamento diário](projetoia7.PNG)
-
-### 6.5. Teste do acompanhamento
-
-![Teste do atalho](TesteSkill.PNG)
+![Teste do atalho](../TesteSkill.PNG)
 
 ### 6.6. Evidências complementares
 
-![Google Agenda](projeto%20ia2.PNG)
+![Google Agenda](../projeto%20ia2.PNG)
 
-![Google Agenda adicional](projeto%20ia3.PNG)
+![Google Agenda adicional](../projeto%20ia3.PNG)
 
 ## 7. Aprendizados
 
