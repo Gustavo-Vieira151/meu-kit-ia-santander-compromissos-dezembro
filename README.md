@@ -226,34 +226,27 @@ O atalho foi documentado em um arquivo Markdown dentro da pasta atalhos.
 
 
 
-6.2. Configuração das instruções no ChatGPT
+### 6.2. Configuração do projeto ChatGPT
 
-Foram inseridas instruções específicas para orientar o agente na organização e no acompanhamento da rotina.
+![Configuração do ChatGPT](projetoia5.PNG)
 
+### 6.3. Planejamento semanal no Google Agenda
 
+![Planejamento semanal](%20projeto%20ia1.PNG)
 
-6.3. Planejamento semanal no Google Agenda
+### 6.4. Planejamento diário apresentado pelo ChatGPT
 
-Os compromissos foram distribuídos no calendário, respeitando os horários e os dias definidos.
+![Planejamento diário](projetoia7.PNG)
 
+### 6.5. Teste do acompanhamento
 
+![Teste do atalho](TesteSkill.PNG)
 
-6.4. Planejamento diário apresentado pelo ChatGPT
+### 6.6. Evidências complementares
 
-O agente apresentou a rotina diária, com horários, atividades e metas correspondentes ao planejamento.
+![Google Agenda](%20projeto%20ia2.PNG)
 
-
-
-6.5. Teste do acompanhamento
-
-Foi realizado um teste para verificar a apresentação das atividades e o acompanhamento do progresso.
-
-
-
-6.6. Evidências complementares
-
-Outras capturas de tela registram a configuração e a utilização do Google Agenda e do Projeto ChatGPT.
-
+![Google Agenda adicional](%20projeto%20ia3.PNG)
 
 
 
