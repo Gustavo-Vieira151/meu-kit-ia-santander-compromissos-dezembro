@@ -1,4 +1,4 @@
-Atalho 01 — Planejador de Rotina
+Atalho 01 Skill Teste  — Planejador de Rotina
 
 1. Contexto
 
