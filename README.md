@@ -1,24 +1,24 @@
-Meu Kit de IA — Organização da Rotina
+Minha Entrega — Meu Kit de IA
 
-Sobre o projeto
+1. Sobre o projeto
 
-Este repositório apresenta minha experiência utilizando ferramentas de Inteligência Artificial para organizar atividades pessoais, profissionais e educacionais.
+Este projeto apresenta minha experiência utilizando Inteligência Artificial para organizar minha rotina pessoal, profissional e educacional.
 
-O objetivo foi utilizar um agente de IA para planejar minha rotina, organizar meus horários e acompanhar meu desenvolvimento até 31 de dezembro de 2026.
+O objetivo foi delegar a um agente de IA a tarefa de planejar meus horários, organizar minhas atividades e auxiliar no acompanhamento do meu desenvolvimento entre 17/11/2026 e 31/12/2026.
 
-1. Problema identificado
+2. Problema identificado
 
-Eu precisava organizar diferentes áreas da minha rotina, incluindo:
+Eu precisava organizar diferentes áreas da minha rotina:
 
 Trabalho com vendas e investimentos imobiliários.
 
-Cibersegurança pela DIO.
+Cibersegurança — DIO.
 
-Programação pela DIO.
+Programação — DIO.
 
 Cursos Santander e Bradesco.
 
-Mecânica automotiva pela Escola do Mecânico.
+Mecânica automotiva — Escola do Mecânico.
 
 Inglês.
 
@@ -26,7 +26,7 @@ Treinamento físico.
 
 O desafio era distribuir essas atividades em horários definidos, mantendo uma organização diária e semanal.
 
-2. Ferramentas utilizadas
+3. Ferramentas utilizadas
 
 ChatGPT: planejamento, organização e acompanhamento das atividades.
 
@@ -34,50 +34,196 @@ Projetos do ChatGPT: armazenamento de instruções e organização das conversas
 
 Google Agenda: cadastro dos compromissos recorrentes e visualização da rotina.
 
-3. Tarefa real delegada ao agente de IA
+4. Atalho de IA — Planejador de Rotina
 
-Solicitação: organizar minha rotina de estudos, trabalho e desenvolvimento pessoal entre 17/11/2026 e 31/12/2026.
+Contexto
 
-Planejamento: a IA ajudou a distribuir as atividades por horários e dias da semana, respeitando as prioridades e os horários informados.
+Organizar minha rotina pessoal, profissional e educacional, respeitando os horários previamente definidos.
 
-Execução: configurei um Projeto no ChatGPT com instruções específicas e autorizei a criação dos compromissos recorrentes no Google Agenda.
+Instrução
 
-Resultado verificado: foram criados 12 compromissos recorrentes no Google Agenda, incluindo treino, trabalho, cursos, mecânica e inglês. O lembrete das 18h para a Escola do Mecânico já estava configurado separadamente.
+Atue como meu assistente pessoal de organização, produtividade e desenvolvimento profissional.
 
-4. Acompanhamento
+Utilize minha rotina como referência e apresente as atividades conforme o dia da semana.
 
-O acompanhamento utiliza as seguintes regras:
+Rotina de segunda a sexta-feira
 
-Não considerar atividades concluídas sem minha confirmação.
+Horário
 
-Registrar o progresso informado.
+Atividade
 
-Identificar atividades pendentes.
+06h–08h
 
-Organizar metas diárias e semanais.
+Treinamento físico
 
-Não alterar horários sem minha autorização.
+08h–12h
 
-5. Evidências
+Trabalho imobiliário
 
-As capturas de tela serão adicionadas a este repositório para demonstrar:
+12h–13h
 
-Configuração das instruções do Projeto ChatGPT.
+Almoço
 
-Organização da rotina.
+13h30–15h30
 
-Cadastro dos compromissos no Google Agenda.
+Cibersegurança — DIO
 
-Resultado do acompanhamento.
+15h30–17h30
 
-6. Aprendizados
+Cursos em rodízio
+
+18h
+
+Preparação e deslocamento para mecânica
+
+19h–22h
+
+Aula presencial de mecânica (segunda a quinta)
+
+23h–00h
+
+Estudo individual de mecânica
+
+00h–01h
+
+Inglês
+
+Rotina de sábado e domingo
+
+Horário
+
+Atividade
+
+06h–08h
+
+Treinamento físico
+
+11h–12h
+
+Inglês
+
+12h–13h
+
+Almoço
+
+13h30–15h30
+
+Cibersegurança — DIO
+
+15h30–17h30
+
+Cursos em rodízio
+
+Rodízio dos cursos
+
+Segunda-feira: DIO — Programação.
+
+Terça-feira: Santander.
+
+Quarta-feira: Bradesco.
+
+Quinta-feira: DIO — Programação.
+
+Sexta-feira: Santander.
+
+Sábado: Bradesco.
+
+Domingo: revisão ou continuidade do curso com menor progresso.
+
+Objetivo
+
+Manter disciplina, acompanhar tarefas, identificar atrasos e organizar metas diárias e semanais.
+
+Formato da resposta
+
+Ao iniciar o acompanhamento, apresentar:
+
+Data e dia da semana.
+
+Agenda do dia.
+
+Horários das atividades.
+
+Metas diárias.
+
+Situação das tarefas: pendente, concluída ou atrasada.
+
+Limites e regras
+
+Não marcar atividades como concluídas sem minha confirmação.
+
+Não inventar tarefas realizadas.
+
+Não modificar horários sem autorização.
+
+Identificar atrasos e sugerir reorganizações.
+
+Respeitar os compromissos existentes.
+
+Diferenciar eventos do Google Agenda de lembretes automáticos do ChatGPT.
+
+5. Delegação de tarefa ao agente de IA
+
+Solicitação
+
+Organizar minha rotina de estudos, trabalho e desenvolvimento pessoal entre 17/11/2026 e 31/12/2026.
+
+Planejamento
+
+O agente analisou as atividades e os horários informados, organizando a rotina semanal e distribuindo os cursos Santander, Bradesco e DIO em um rodízio.
+
+Execução
+
+Criei um Projeto no ChatGPT com instruções específicas.
+
+Configurei o acompanhamento da rotina.
+
+Conectei o Google Agenda.
+
+Autorizei a criação dos compromissos recorrentes.
+
+Mantive o lembrete da Escola do Mecânico às 18h, que já estava configurado.
+
+Resultado verificado
+
+Foram criados 12 compromissos recorrentes no Google Agenda, contemplando treinamento físico, trabalho, estudos, cursos, mecânica e inglês.
+
+Também foi realizado um teste do atalho no ChatGPT para verificar se a IA apresentava a rotina e respeitava a regra de não marcar atividades como concluídas sem confirmação.
+
+6. Evidências
+
+As imagens abaixo demonstram as etapas de configuração, organização e teste.
+
+Configuração do Projeto ChatGPT
+
+
+
+Organização e planejamento
+
+
+
+Teste do atalho
+
+
+
+Evidências adicionais do projeto
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. Aprendizados
 
 A experiência demonstrou como a Inteligência Artificial pode auxiliar na organização de tarefas, planejamento de horários e acompanhamento de objetivos.
 
-O processo também mostrou a importância de fornecer instruções claras, validar os resultados e manter o controle humano sobre as decisões.
-
-7. Atalhos de IA
-
-Esta seção será preenchida com dois atalhos de IA adaptados e testados, conforme os requisitos do desafio.
+Aprendi a importância de fornecer instruções claras, estabelecer limites para o agente, validar os resultados e manter o controle humano sobre as decisões.
 
 Projeto desenvolvido como parte do desafio Meu Kit de IA — DIO.
