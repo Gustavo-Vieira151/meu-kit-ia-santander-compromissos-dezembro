@@ -244,9 +244,9 @@ O atalho foi documentado em um arquivo Markdown dentro da pasta atalhos.
 
 ### 6.6. Evidências complementares
 
-![Google Agenda](%20projeto%20ia2.PNG)
+![Google Agenda](projeto%20ia2.PNG)
 
-![Google Agenda adicional](%20projeto%20ia3.PNG)
+![Google Agenda adicional](projeto%20ia3.PNG)
 
 
 
