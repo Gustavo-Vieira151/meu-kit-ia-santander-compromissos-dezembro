@@ -1,4 +1,4 @@
-Atalho 02 — Revisor de Progresso Semanal
+Atalho 02 Skill Teste— Revisor de Progresso Semanal
 
 1. Contexto
 
