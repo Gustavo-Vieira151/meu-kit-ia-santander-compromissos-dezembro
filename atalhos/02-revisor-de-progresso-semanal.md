@@ -109,16 +109,15 @@ Sugeriu prioridades para a semana seguinte sem alterar a agenda.
 O teste demonstrou que o atalho consegue organizar os registros e avaliar o progresso sem presumir atividades realizadas.
 
 
+## 8. Evidências do teste
+
 ### 8.1. Execução do Atalho 02
 
-![Execução do Revisor de Progresso](https://raw.githubusercontent.com/Gustavo-Vieira151/meu-kit-ia-santander-compromissos-dezembro/main/atalhos/Executar%20revis%C3%A3o.PNG)
+![Execução do Revisor de Progresso](../Executar%20revis%C3%A3o.PNG)
 
 ### 8.2. Resultado da revisão semanal
 
-![Resultado da revisão semanal](https://raw.githubusercontent.com/Gustavo-Vieira151/meu-kit-ia-santander-compromissos-dezembro/main/atalhos/executar%20revis%C3%A3o2.PNG)
-
-
-Faça o teste:
+![Resultado da revisão semanal](../executar%20revis%C3%A3o2.PNG)
 
 
 
