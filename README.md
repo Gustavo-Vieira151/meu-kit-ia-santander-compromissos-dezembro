@@ -1,12 +1,12 @@
 Minha Entrega — Meu Kit de IA
 
-1. Sobre o projeto
+## 1. Sobre o projeto
 
 Este projeto apresenta minha experiência utilizando Inteligência Artificial para organizar minha rotina pessoal, profissional e educacional.
 
 O objetivo foi utilizar um agente de IA para planejar meus horários, organizar minhas atividades e acompanhar meu desenvolvimento entre 17/11/2026 e 31/12/2026.
 
-2. Problema identificado
+## 2. Problema identificado
 
 Eu precisava organizar diferentes áreas da minha rotina, conciliando trabalho, estudos e desenvolvimento pessoal.
 
@@ -36,7 +36,7 @@ Projetos do ChatGPT: armazenamento de instruções e organização das conversas
 
 Google Agenda: cadastro dos compromissos recorrentes e visualização da rotina.
 
-4. Atalho de IA — Planejador de Rotina
+## 4. Atalho de IA — Planejador de Rotina
 
 4.1. Contexto
 
@@ -178,7 +178,8 @@ O atalho completo está documentado no seguinte arquivo:
 
 atalhos/01-planejador-de-rotina.md
 
-5. Delegação de tarefa ao agente de IA
+
+## 5. Delegação de tarefa ao agente de IA
 
 5.1. Solicitação
 
@@ -214,7 +215,8 @@ Também realizei um teste do Planejador de Rotina no ChatGPT, verificando a apre
 
 O teste permitiu observar a organização das tarefas e seus respectivos estados de progresso.
 
-6. Evidências da execução
+
+## 6. Evidências da execução
 
 As imagens abaixo documentam as etapas de criação, configuração, planejamento e teste do projeto.
 
@@ -258,7 +260,7 @@ Outras capturas de tela registram a configuração e a utilização do Google Ag
 
 
 
-7. Aprendizados
+## 7.  Aprendizados
 
 A experiência demonstrou como a Inteligência Artificial pode auxiliar na organização de tarefas, no planejamento de horários e no acompanhamento de objetivos.
 
